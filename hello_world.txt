@@ -1,0 +1,2 @@
+Hello Brothers this is my first time using git and its features.
+Im just practicing a lil bit of stuff.
